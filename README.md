@@ -1,0 +1,2 @@
+# Beer-problem-with-Python
+FULFILLING AN ORDER WITH MINIMUM NUMBER OF BOTTLES A bottled water industry based in USA, Michigan serves packaged water bottles of various sizes. The bottle size could be 1 litre, 5 litre, 7 litre and 10 litre. The owner wants to supply maximum quantity using fewer water bottles.  Your objective is to find the minimum number of bottles required to supply the given demand of water
